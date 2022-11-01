@@ -10,7 +10,7 @@ Supports;
 
 
 ## Hardware
-Hardware is available at : http://tindie.com/site
+Hardware is available at : https://www.tindie.com/products/kt_boards/kt-iot-4g-lte-and-gps-board/
 
 KT-BOARD Hardware includes an ESP32-C3 and an Quectel BG95-M3 modem.
 (supported pcb version: QT-KT-1000)
